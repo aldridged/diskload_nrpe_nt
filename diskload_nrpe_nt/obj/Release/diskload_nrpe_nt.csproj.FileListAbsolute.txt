@@ -1,0 +1,6 @@
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\bin\Release\diskload_nrpe_nt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\bin\Release\diskload_nrpe_nt.pdb
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\obj\Release\diskload_nrpe_nt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\obj\Release\diskload_nrpe_nt.pdb
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\bin\Release\diskload_nrpe_nt.exe.config
+c:\users\daldridge\documents\visual studio 2013\Projects\diskload_nrpe_nt\diskload_nrpe_nt\obj\Release\diskload_nrpe_nt.csprojResolveAssemblyReference.cache
